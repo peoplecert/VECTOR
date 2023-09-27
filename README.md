@@ -39,4 +39,4 @@ Unfold the dimensions of VECTOR through our video presentation, a robust testame
 
 Embrace VECTOR and transition into the future of AI-assisted training solutions where every representative is knowledgeable, every interaction is enhanced, and every training scenario is innovative. Together, let's reshape the training landscape while steadfastly maintaining the values of Quality, Innovation, Passion, and Integrity.
 
-In unity and innovation, the PeopleCert Team.
+*In unity and innovation, the PeopleCert Team.*
