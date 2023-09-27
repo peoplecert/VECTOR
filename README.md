@@ -7,9 +7,9 @@ Delve into the repository of VECTOR - Virtual Education and Coaching Tool for Or
 
 🤝 **Team Members:**
 
--   Komi, Efi - Trainer
--   Vakalopoulou, Kreittoniki - Customer Service Team Leader
--   Katsanos Christos - Junior MS Business Applications Developer
+-   **Komi, Efi** - Trainer
+-   **Vakalopoulou, Kreittonik**i - Customer Service Team Leader
+-   **Katsanos Christos** - Junior MS Business Applications Developer
 
 🌟 **Overview:**
 
