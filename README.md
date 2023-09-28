@@ -23,7 +23,7 @@ Achieve improved operational representative training and ensure preparedness for
 **🎥 Video Presentation**
 -------------------------
 
-Explore more about VECTOR through our detailed video presentation, elucidating its innovative features and operational efficiency.
+Explore more about VECTOR through our detailed [video](https://drive.google.com/file/d/1gU0UTMy3IdLmLLL1QyYCsxL-AiVO9wu1/view?usp=drive_link) presentation, elucidating its innovative features and operational efficiency.
 
 **🤝 Team Members:**
 --------------------
