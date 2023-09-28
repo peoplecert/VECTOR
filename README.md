@@ -1,7 +1,7 @@
 **VECTOR by PeopleCert Team**
 =============================
 
-🌟 **Welcome to the VECTOR Project!**
+### 🌟 **Welcome to the VECTOR Project!**
 
 Delve into the repository of VECTOR - Virtual Education and Coaching Tool for Organizational Readiness. Experience the revolution in training assistant bots as VECTOR, symbolizing the collaborative and innovative spirit at PeopleCert.
 
